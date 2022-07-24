@@ -21,7 +21,7 @@ We will walk you through a step by step tutorial on how to set up LioranBoard, a
 
 We recommend selecting **64bits release**.
 
-<a href="https://github.com/LioranWaters/Lioranboard2Update/blob/main/README.md"><button type="button" class="btn btn-primary mt-1">Download LioranBoard</button></a>
+<a href="https://github.com/LioranBoard/LioranBoard-2-Official/releases"><button type="button" class="btn btn-primary mt-1">Download LioranBoard</button></a>
 
 Unpack the zip file and place the folder anywhere in your computer, preferably in your non windows drive.
 
